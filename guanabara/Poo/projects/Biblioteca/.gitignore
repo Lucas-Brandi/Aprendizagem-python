@@ -1,0 +1,71 @@
+# ==========================================
+# Byte-compiled / Cache do Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================================
+# Ambientes Virtuais (Virtual Envs)
+# ==========================================
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# ==========================================
+# Variáveis de Ambiente e Segredos
+# ==========================================
+.env
+.env.local
+*.env
+
+# ==========================================
+# Pacotes, Build e Distribuição
+# ==========================================
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==========================================
+# Testes e Relatórios de Cobertura
+# ==========================================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.nox/
+.hypothesis/
+nosetests.xml
+coverage.xml
+*.cover
+
+# ==========================================
+# IDEs e Editores de Código
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ==========================================
+# Logs e Bancos de Dados Locais
+# ==========================================
+*.log
+*.sqlite3
